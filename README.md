@@ -58,8 +58,8 @@ O arquivo `.env` deve seguir este modelo (padrão para o Docker):
 DB_HOST=localhost
 DB_PORT=5432
 DB_USERNAME=postgres
-DB_PASSWORD=password_database
-DB_DATABASE=local_database
+DB_PASSWORD=5str0ngP@ssw0rd
+DB_DATABASE=bid_database
 DB_SYNCHRONIZE=true
 
 # Redis Configuration
